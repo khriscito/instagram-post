@@ -1,0 +1,86 @@
+.todo{
+    position: absolute;
+    background: black;
+    height: 100%;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    background-color: white;
+    width: 35%;
+    height: 90%;
+}
+.container-header{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+}
+.ch-izq{
+    display:flex;
+}
+.logo{
+padding: 3px;
+font-size: 50px;
+}
+.html5{
+padding: 3px;
+font-size: 20px;
+}
+.ch-der{
+    font-size: 50px;
+}
+.img{
+padding: 35%;
+background-image: url("https://www.pasionitaliana.com/wp-content/uploads/2020/09/san-Quirico-tuscany-luca-micheli-r9RW20TrQ0Y-unsplash-scaled-1-1400x1049.jpg");
+background-size: cover;
+}
+
+.c-int{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cint-izq{
+    display: flex;
+    margin: 10px;
+    font-size: 35px;
+}
+
+.i1{
+    padding: 5px;
+}
+
+.i2{
+
+    padding: 5px;
+}
+
+.i3{
+    padding: 5px;
+}
+
+.cint-der{
+    display:flex;
+    font-size: 35px;
+    margin: 12px;
+}
+
+.likes{
+    font-size: 22px;
+    margin: 17px;
+}
+
+.texto{
+    margin: 17px;
+    font-size: 22px;
+    justify-content: center;
+    text-align: justify;
+}
+
+
+
+
+
